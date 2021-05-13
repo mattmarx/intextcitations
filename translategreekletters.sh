@@ -1,0 +1,1 @@
+sed -e 's/γ/gamma/g' | sed -e 's/β/beta/g' | sed -e 's/α/alpha/g' | sed -e 's/κ/kappa/g' | sed -e 's/δ/delta/g' | sed -e 's/λ/lambda/g'| sed 's/ω/omega/g' |sed 's/θ/theta/g' | sed 's/γ/upsilon/g' | sed 's/ζ/zeta/g'| sed 's/ϵ/epsilon/g' | sed 's/ω/omega/g' | sed 's/γ/sigma/g'| sed 's/ρ/rho/g'| sed 's/ι/iota/g'
